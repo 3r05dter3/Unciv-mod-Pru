@@ -15,7 +15,7 @@
 		"neutralHello": "What now?",
 		"hateHello": "So, out with it!",
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
-		"outerColor": [0,0,0],
+		"outerColor": [20,0,0],
 		"innerColor": [255,200,200],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Furor Teutonicus",
