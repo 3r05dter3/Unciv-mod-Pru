@@ -15,7 +15,7 @@
 		"uniqueTo": "Prussia",
 		"hurryCostModifier": 0,
 		"maintenance": 0,
-		"happiness": 2,
+		"happiness": 4,
 		"requiredBuilding": "Armory",
 		"uniques": ["New [Military] units start with [30] Experience [in this city]", "Destroyed when the city is captured"],
 		"requiredTech": "Military Science"
