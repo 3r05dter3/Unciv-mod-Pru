@@ -28,7 +28,7 @@
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
 		"uniqueName": "Patronage of the Raven",
-		"uniques": "[+25]% maintenance costs <for [Land] units>", "Damage is ignored when determining unit Strength <for [non-[Air]] units>", "[+1] Movement <for [Land] units>", "[+15]% Strength <for [Land] units>", "[+20]% XP gained from combat"],
+		"uniques": "[[+25]% maintenance costs <for [Land] units>", "Damage is ignored when determining unit Strength <for [non-[Air]] units>", "[+1] Movement <for [Land] units>", "[+15]% Strength <for [Land] units>", "[+20]% XP gained from combat"],
 		
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
