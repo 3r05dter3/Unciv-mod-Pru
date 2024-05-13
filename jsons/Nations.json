@@ -24,8 +24,7 @@
 		"innerColor": [255,255,255],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Furor Teutonicus",
-		"uniques": ["Damage is ignored when determining unit Strength <for [non-[Air]] units>", "[+1] Movement <for [Land] units>", "[+10]% Strength <for [Land] units>", "[+50]% XP gained from combat", "Earn [10]% of killed [Military] unit's [Strength] as [Science]",
-      "Earn [10]% of killed [Military] unit's [Strength] as [Culture]", "[+25]% Strength <when fighting units from a Civilization with more Cities than you>"],
+		"uniques": ["Damage is ignored when determining unit Strength <for [non-[Air]] units>", "[+1] Movement <for [Land] units>", "[+15]% Strength <for [Land] units>", "[+50]% XP gained from combat", "[+15]% Strength <when fighting units from a Civilization with more Cities than you>", "[+15]% Strength <when attacking>]"
 		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
 			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
 			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
