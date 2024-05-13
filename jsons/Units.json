@@ -56,7 +56,7 @@
 		"cost": 650,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
-		"uniques": ["[+25]% Strength <vs [Gunpowder] units>", "[+35]% Strength <vs cities> <when attacking>", "[+45]% Strength <when attacking>"],
+		"uniques": ["[+25]% Strength <vs [Gunpowder] units>", "[+35]% Strength <vs cities> <when attacking>"],
 		"promotions": ["Drill I","Drill II"],
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
