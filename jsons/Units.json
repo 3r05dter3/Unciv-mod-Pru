@@ -10,7 +10,7 @@
 		"requiredTech": "Gunpowder",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
-		"uniques": ["[+35]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[+35]% Strength <vs [Gunpowder] units>", "[+25]% Strength <when attacking>"],
 		"promotions": ["Drill I"],
 		"attackSound": "shot"
 	},
@@ -25,7 +25,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"uniques": ["[+35]% Strength <vs [Gunpowder] units>"],
+		"uniques": ["[+35]% Strength <vs [Gunpowder] units>", "[+25]% Strength <when attacking>"],
 		"promotions": ["Drill I"],
 		"attackSound": "shot"
 	},
@@ -56,7 +56,7 @@
 		"cost": 650,
 		"requiredTech": "Replaceable Parts",
 		"upgradesTo": "Infantry",
-		"uniques": ["[+25]% Strength <vs [Gunpowder] units>", "[+35]% Strength <vs cities> <when attacking>"],
+		"uniques": ["[+25]% Strength <vs [Gunpowder] units>", "[+35]% Strength <vs cities> <when attacking>", "[+45]% Strength <when attacking>"],
 		"promotions": ["Drill I","Drill II"],
 		"obsoleteTech": "Plastics",
 		"attackSound": "shot"
