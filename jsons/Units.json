@@ -25,7 +25,7 @@
 		"requiredTech": "Rifling",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Great War Infantry",
-		"uniques": ["[+35]% Strength <vs [Gunpowder] units>",
+		"uniques": ["[+35]% Strength <vs [Gunpowder] units>"],
 		"promotions": ["Drill I"],
 		"attackSound": "shot"
 	},
