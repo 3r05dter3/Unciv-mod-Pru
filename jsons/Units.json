@@ -67,11 +67,28 @@
 		"movement": 1,
 		"strength": 300,
 		"rangedStrength": 300,
-		"range": 12,
+		"range": 18,
 		"cost": 1000,
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["Nuclear weapon of Strength [2]", "Only available <if [Manhattan Project] is constructed>",
-			"Blast radius [2]", "Consumes [2] [Uranium]", "[+12] Sight"],
+			"Blast radius [3]", "Consumes [2] [Uranium]", "[+18] Sight"],
 		"attackSound": "nuke"
+	},
+	{
+		"name": "Atomic Bomb",
+		"unitType": "Atomic Bomber",
+		"movement": 1,
+		"strength": 150,
+		"rangedStrength": 150,
+		"range": 12,
+		"cost": 600,
+		"requiredTech": "Nuclear Fission",
+		"requiredResource": "Uranium",
+		"promotions" : ["Evasion"],
+		"uniques": ["Nuclear weapon of Strength [1]", "Only available <if [Manhattan Project] is constructed>", "Self-destructs when attacking",
+			"Blast radius [2]", "[+12] Sight"],
+		"attackSound": "nuke"
+		// Plane rather than a missile - can be based in city or Carrier only.
+		// Can be intercepted, but must die for it not to take effect.
 	}
 ]
