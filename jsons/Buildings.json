@@ -1,5 +1,16 @@
 [
 	{
+		"name": "Palace",
+		"isNationalWonder": true,
+		"production": 3,
+		"science": 3,
+		"gold": 3,
+		"culture": 1,
+		"cityStrength": 2,
+		"cost": 1,
+		"uniques": ["Indicates the capital city",  "[+5 sight] [in all cities]"]
+	},
+	{
 		"name": "Prussian Barracks",
 		"replaces": "Barracks",
 		"uniqueTo": "Prussia",
